@@ -1,0 +1,13 @@
+#jumbotron {
+     background: url('https://s3.amazonaws.com/codecademy-content/courses/learn-bootstrap-components/mock+website+assets/boots_jumbotron.jpg') no-repeat center/cover;
+     -moz-background: url('https://s3.amazonaws.com/codecademy-content/courses/learn-bootstrap-components/mock+website+assets/boots_jumbotron.jpg') no-repeat center/cover;
+     -webkit-background: url('https://s3.amazonaws.com/codecademy-content/courses/learn-bootstrap-components/mock+website+assets/boots_jumbotron.jpg') no-repeat center/cover;
+}
+
+#jumbotron>div {
+     background-color: rgba(0, 0, 0, 0.14);
+}
+
+body {
+     overflow-x: hidden;
+}
